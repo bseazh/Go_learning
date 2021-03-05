@@ -3,7 +3,7 @@ package main
 // socket_stick/client/main.go
 
 import (
-	proto "day_03_01/Socket_stick/Protocol"
+	proto "StudyGolang/day_03_01/Socket_stick/Protocol"
 	"fmt"
 	"net"
 )

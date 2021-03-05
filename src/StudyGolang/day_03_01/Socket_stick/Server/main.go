@@ -1,8 +1,8 @@
 package main
 
 import (
+	proto "StudyGolang/day_03_01/Socket_stick/Protocol"
 	"bufio"
-	proto "day_03_01/Socket_stick/Protocol"
 	"fmt"
 	"io"
 	"net"
